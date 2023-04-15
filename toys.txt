@@ -1,0 +1,4 @@
+Id:1;Name:Constructor;Number:23;Frequency:35
+Id:2;Name:Robot;Number:28;Frequency:20
+Id:3;Name:Doll;Number:30;Frequency:40
+Id:4;Name:Car;Number:20;Frequency:38

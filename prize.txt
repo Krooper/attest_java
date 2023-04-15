@@ -1,0 +1,1 @@
+Id:3;Name:Doll;Number:35;Frequency:40
